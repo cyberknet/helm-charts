@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  papermerge:
+  - apiVersion: v2
+    appVersion: 3.3.0build1
+    created: "2024-09-27T14:09:43.325639635Z"
+    description: Papermerge helm chart for Kubernetes / standalone architecture
+    digest: 883df9b1a97caed667e9da161aead38a8fc2117eca62db122b77a2e843337759
+    maintainers:
+    - email: eugen@papermerge.com
+      name: Eugen Ciur
+    name: papermerge
+    type: application
+    urls:
+    - https://cyberknet.github.io/helm-charts/papermerge-0.3.0.tgz
+    version: 0.3.0
+generated: "2024-09-27T14:09:43.324697687Z"
